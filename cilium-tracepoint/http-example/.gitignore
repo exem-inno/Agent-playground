@@ -1,0 +1,4 @@
+.idea
+exec_scrape
+*.o
+vmlinux.h
